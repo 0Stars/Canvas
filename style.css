@@ -1,0 +1,23 @@
+.body_backgorund {
+    background-image: url("Geometric.png");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 40px;
+      font-family: 'Ubuntu', sans-serif;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
